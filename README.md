@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parastoo Mosayebi
 - 👀 I am fascinated by technology, programming, data mining, management, mountaineering, and books.
-- 🌱 I’m currently learning data mining and Angular
+- 🌱 I’m currently learning data mining.
 - 💞️ I’m looking to collaborate on web development and data mining
 - 📫 How to reach me: zhmosayebi@gmail.com
 
